@@ -4,5 +4,5 @@ How do different crab traps affect the stress of native shore crabs
 ## Materials List:
 - Fabric mesh for “Fukui” trap
 - Mud/silt 
-- Trashbag or blacked out material for “crab slab”
+- Foil / blacked out material for “crab slab”
 - Rock / fake crab 
