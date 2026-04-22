@@ -1,17 +1,11 @@
 project:
-  type: manuscript
+  type: website
 
-execute:
-  freeze: auto
+website:
+  title: "Inside the Crabrooms"
 
 format:
   html:
     toc: true
-    comments:
-      hypothesis: true
-  docx: default
-  jats: default
-  agu-pdf: default
-
 
 

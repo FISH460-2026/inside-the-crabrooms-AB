@@ -2,10 +2,8 @@
 */.ipynb_checkpoints/*
 
 /.quarto/
-/_manuscript
+/_site
 
-/agujournal2019.cls
-/trackchanges.sty
 .Rproj.user
 .Rhistory
 .Rdata
