@@ -8,7 +8,15 @@ Deryn Bagley, Sophie Monterola, Hannah Tucker
 - Fabric mesh for “Fukui” trap
 - Mud/silt 
 - Foil / blacked out material for “crab slab”
-- Rock / fake crab 
+- Rock / fake crab
+
+## Methods
+Week 1
+1) label
+2) weigh
+3) righting time
+4) rhezazurin
+5) put in makeshift traps
 
 data sheet link: https://docs.google.com/spreadsheets/d/1VAlEyL2nJha_8owaYQv3jHhkOkzxcGFZl1xUTlPfGMs/edit?usp=sharing
 protocol doc link: https://docs.google.com/document/d/1IK4mFOim0056GpaYA5l3KwOGqwj3p64riYajw4_iDu4/edit?usp=sharing
