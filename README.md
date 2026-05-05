@@ -19,7 +19,7 @@ Week 1
 5) put in makeshift traps
 
 ## Notes 
-- added extra 5 ml rhezazurin pre time 1 (week 1, future weeks add 13 ml)
+- added extra 5 ml rhezazurin @ 15 min (week 1, future weeks add 13 ml)
 
 data sheet link: https://docs.google.com/spreadsheets/d/1VAlEyL2nJha_8owaYQv3jHhkOkzxcGFZl1xUTlPfGMs/edit?usp=sharing
 protocol doc link: https://docs.google.com/document/d/1IK4mFOim0056GpaYA5l3KwOGqwj3p64riYajw4_iDu4/edit?usp=sharing
