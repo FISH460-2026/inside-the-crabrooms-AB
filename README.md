@@ -2,6 +2,9 @@
 Deryn Bagley, Sophie Monterola, Hannah Tucker
 
 ## Materials List:
+- 1 Carcinus maenas (European Green Crab)
+- 12 Hemigrapsus oregonensis (Hairy Shore Crab)
+- 4 osmometer(?) chambers
 - Fabric mesh for “Fukui” trap
 - Mud/silt 
 - Foil / blacked out material for “crab slab”
