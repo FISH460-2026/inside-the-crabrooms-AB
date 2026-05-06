@@ -3,7 +3,7 @@ Deryn Bagley, Sophie Monterola, Hannah Tucker
 
 ## Materials List:
 - 1 Carcinus maenas (European Green Crab)
-- 12 Hemigrapsus oregonensis (Hairy Shore Crab)
+- 4 Hemigrapsus oregonensis (Hairy Shore Crab), 8 Hemigrapsus nudus
 - 4 osmometer(?) chambers
 - Fabric mesh for “Fukui” trap
 - Mud/silt 
@@ -15,7 +15,7 @@ Week 1
 1) label
 2) weigh
 3) righting time
-4) rhezazurin
+4) resazurin
 5) put in makeshift traps
 
 ## Notes 
