@@ -11,12 +11,18 @@ Deryn Bagley, Sophie Monterola, Hannah Tucker
 - Rock / fake crab
 
 ## Methods
-Week 1
+### Week 1
 1) label
 2) weigh
 3) righting time
 4) resazurin
 5) put in makeshift traps
+
+### Other Weeks 
+1) Take out of traps 
+2) Righting time
+3) Resazurin
+4) Put back into traps 
 
 ## Notes 
 ### Week 1
