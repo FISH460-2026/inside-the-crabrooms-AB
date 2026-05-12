@@ -19,7 +19,10 @@ Week 1
 5) put in makeshift traps
 
 ## Notes 
+### Week 1
 - added extra 5 ml rhezazurin @ 15 min (week 1, future weeks add 13 ml)
+### Week 2
+- crab 67 died L
 
 data sheet link: https://docs.google.com/spreadsheets/d/1VAlEyL2nJha_8owaYQv3jHhkOkzxcGFZl1xUTlPfGMs/edit?usp=sharing
 protocol doc link: https://docs.google.com/document/d/1IK4mFOim0056GpaYA5l3KwOGqwj3p64riYajw4_iDu4/edit?usp=sharing
