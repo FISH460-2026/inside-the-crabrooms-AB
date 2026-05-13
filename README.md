@@ -35,3 +35,6 @@ protocol doc link: https://docs.google.com/document/d/1IK4mFOim0056GpaYA5l3KwOGq
 
 <img width="2100" height="2100" alt="crab_mass" src="https://github.com/user-attachments/assets/05d8a0bc-828a-4041-8f27-b5158829625a" />
 
+<img width="1400" height="865" alt="image" src="https://github.com/user-attachments/assets/8a2f1154-72e1-470c-8699-8a108d6d2e15" />
+
+
