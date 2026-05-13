@@ -37,4 +37,6 @@ protocol doc link: https://docs.google.com/document/d/1IK4mFOim0056GpaYA5l3KwOGq
 
 <img width="1400" height="865" alt="image" src="https://github.com/user-attachments/assets/8a2f1154-72e1-470c-8699-8a108d6d2e15" />
 
+<img width="930" height="792" alt="Screenshot 2026-05-12 231438" src="https://github.com/user-attachments/assets/1eb9e041-c4a0-43af-941d-598c0c07ac20" />
+
 
