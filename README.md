@@ -3,6 +3,7 @@ Deryn Bagley, Sophie Monterola, Hannah Tucker
 
 ## Paper Outline (5/20)
 https://docs.google.com/document/d/1kplcq43ehZdfr7_fQMi6aorXzhEVGpMWZhqUzLTixj8/edit?usp=sharing
+
 460 Paper Outline
 Inside the Crabrooms - AB
 Deryn Bagley, Sophie Monterola, Hannah Tucker
@@ -38,9 +39,8 @@ The combination of an EGC and being in a crab slab trap was the most stressful i
 
 Figure 3. Righting time of each crab across 3 labs. Group 1 and group 4 experienced the greatest final increases by comparing lab 3 with lab 1. There was no notable linear trend for any of the groups, and group 2 and 3 experienced a decrease in righting time over our experiment times. 
 
-Summary Statistics: Ranges of righting time in seconds (average ± SD)
 
-
+Table 1. Righting time summary statistics: Ranges of righting time in seconds (average ± SD). Will be incorporated into Figure 3. 
 
 Lab 1
 Lab 2
