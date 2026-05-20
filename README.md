@@ -24,10 +24,12 @@ More work needs to be done to determine definitive findings on trap influence on
 Figure 1. This figure shows protein absorbance from hemolymph extractions both diluted and saturated. Colors represent different treatments. Shapes represent the different assay types. Overflows were omitted from the data and considered to be N/A. 
 
 Takeaway: Not enough data to tell if there was an impact on protein levels due to trap type and predator presence. 
+<img width="450" height="278" alt="Screenshot 2026-05-20 at 4 27 11 PM" src="https://github.com/user-attachments/assets/657b43e5-3f94-4c87-a4ea-02eed8e18bea" />
 
 
 
 Figure 2. The figure shows the respiration level of each crab group by treatment type over the three weeks of the experiment. The colors represent each treatment and the points represent a single crabs respiration at one time point during the respiration test (3 points per crab per week). 
+<img width="486" height="255" alt="Screenshot 2026-05-20 at 4 27 20 PM" src="https://github.com/user-attachments/assets/19b6c6b3-5a8b-484b-93ee-cb5cbddda8c8" />
 
 Takeaways: There is a slight decrease in respiration over time for groups 2 and 3. There is a large decrease in respiration over time for group 4. All three of these groups end around the same respiration, but week 1 measurements are different. Preliminary results show that crabs living in the crab slab traps or with an EGC respire more in the initial week, indicating that there might be a larger shock and stress response from being placed in these environments that decreases over time as the crabs acclimate. 
 
@@ -38,6 +40,8 @@ The combination of an EGC and being in a crab slab trap was the most stressful i
 
 
 Figure 3. Righting time of each crab across 3 labs. Group 1 and group 4 experienced the greatest final increases by comparing lab 3 with lab 1. There was no notable linear trend for any of the groups, and group 2 and 3 experienced a decrease in righting time over our experiment times. 
+Takeaway: Not enough data to determine significant influence of treatment on righting time.
+<img width="483" height="304" alt="Screenshot 2026-05-20 at 4 27 27 PM" src="https://github.com/user-attachments/assets/9f2b37f9-0c50-4f6f-921a-228465faebf1" />
 
 
 Table 1. Righting time summary statistics: Ranges of righting time in seconds (average ± SD). Will be incorporated into Figure 3. 
