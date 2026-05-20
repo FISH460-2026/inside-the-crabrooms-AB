@@ -2,6 +2,7 @@
 Deryn Bagley, Sophie Monterola, Hannah Tucker
 
 ## Paper Outline (5/20)
+https://docs.google.com/document/d/1kplcq43ehZdfr7_fQMi6aorXzhEVGpMWZhqUzLTixj8/edit?usp=sharing
 460 Paper Outline
 Inside the Crabrooms - AB
 Deryn Bagley, Sophie Monterola, Hannah Tucker
