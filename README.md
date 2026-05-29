@@ -26,7 +26,8 @@ Figure 1. This figure shows protein absorbance from hemolymph extractions both d
 
 Takeaway: Not enough data to tell if there was an impact on protein levels due to trap type and predator presence. 
 
-<img width="486" height="255" alt="Screenshot 2026-05-20 at 4 27 20 PM" src="https://github.com/user-attachments/assets/19b6c6b3-5a8b-484b-93ee-cb5cbddda8c8" />
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/0c81bb01-9fe4-469b-ac38-82b14dbab8d6" />
+
 Figure 2. The figure shows the respiration level of each crab group by treatment type over the three weeks of the experiment. The colors represent each treatment and the points represent a single crabs respiration at one time point during the respiration test (3 points per crab per week). 
 
 Takeaways: There is a slight decrease in respiration over time for groups 2 and 3. There is a large decrease in respiration over time for group 4. All three of these groups end around the same respiration, but week 1 measurements are different. Preliminary results show that crabs living in the crab slab traps or with an EGC respire more in the initial week, indicating that there might be a larger shock and stress response from being placed in these environments that decreases over time as the crabs acclimate. 
