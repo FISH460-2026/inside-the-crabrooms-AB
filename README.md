@@ -21,8 +21,9 @@ HA2 : Presence of Carcinus maenas induces a higher stress response in Hemigrapsu
 Overall takeaway
 More work needs to be done to determine definitive findings on trap influence on Hemigrapsus stress levels. There is some evidence of different stress responses in native crab species living in different trap environments, but trends are not consistent across all variables tested. Statistical analysis needs to be completed to determine the true significance of the results (will be completed for the final paper). Future work will expand the traps tested to be real world fukui and crab slab traps to understand the changes in stress response when the crabs are existing in the actual traps being used in the wild. 
 
-<img width="450" height="278" alt="Screenshot 2026-05-20 at 4 27 11 PM" src="https://github.com/user-attachments/assets/657b43e5-3f94-4c87-a4ea-02eed8e18bea" />
-Figure 1. This figure shows protein absorbance from hemolymph extractions both diluted and saturated. Colors represent different treatments. Shapes represent the different assay types. Overflows were omitted from the data and considered to be N/A. 
+<img width="493" height="312" alt="Screenshot 2026-06-02 at 3 00 34 PM" src="https://github.com/user-attachments/assets/30fbf956-26dc-46d3-91bc-a84601a550c1" />
+
+Figure 1. This figure shows protein absorbance from hemolymph extractions both diluted and saturated. Each group of two dots represnt 1 individual. Color represents the different assay types. Overflows were omitted from the data and considered to be N/A. 
 
 Takeaway: Not enough data to tell if there was an impact on protein levels due to trap type and predator presence. 
 
